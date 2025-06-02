@@ -16,4 +16,10 @@
     x="640"
     on_click="goToPage('middle')"
   />
+  <agent
+    id="placa"
+    image="snow-sign-1.png"
+    x="$1 * 80"
+    y="$2 * 500"
+  />
 </page>
