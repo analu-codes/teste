@@ -1,8 +1,8 @@
-<page id="start" bg_image="desert-grass-2.png" bg_music="osts-vilo.mp3">
+<page id="start" bg_image="desert-9.png" bg_music="osts-vilo.mp3">
   <agent
     id="teste"
-    text="Hello World"
-    color="black"
+    text="Hello"
+    color="forestgreen"
     x="center"
     y="center"
     font-size="70"
