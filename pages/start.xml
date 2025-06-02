@@ -18,8 +18,9 @@
   />
   <agent
     id="placa"
-    image="snow-sign-1.png"
-    x="$1 * 80"
-    y="$2 * 500"
+    image="forest-sign-1.png"
+    x="center"
+    y="center"
+    width="300"
   />
 </page>
